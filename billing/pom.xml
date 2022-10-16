@@ -26,6 +26,7 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
     </properties> 
     
+    
     <dependencyManagement>
         <dependencies>
             <dependency>
